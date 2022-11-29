@@ -1,0 +1,1 @@
+# Pemrosesan_Paralel_untuk_Stemming_dan_POS-Tagging_pada_Teks_Bahasa_Indonesia
