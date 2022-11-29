@@ -1,1 +1,5 @@
 # Pemrosesan_Paralel_untuk_Stemming_dan_POS-Tagging_pada_Teks_Bahasa_Indonesia
+
+Pemrosesan Paralel merupakan metode yang bertujuan untuk menghasilkan proses yang akan berjalan secara bersamaan sehingga program komputer melakukan banyak proses dalam satu waktu untuk mempercepat waktu komputasi.Penelitian sebelumnya telah mengembangkan metode peningkatan performa waktu kinerja proses Stemming. Namun, metode yang dikembangkan masih terbatas pada peningkatan performa waktu kinerja proses untuk proses Stemming dan data uji yang digunakan pada pengujian penelitian tergolong berukuran kecil. Penelitian ini akan mengembangkan penelitian sebelumnya dengan menerapkan metode Pemrosesan Paralel untuk tahap lanjutan setelah tahap Stemming yaitu pada tahap POS-Tagging. Selain itu, peneliti akan menerapkan metode yang telah dikembangkan untuk proses pra-pengolahan teks Bahasa Indonesia dengan ukuran data yang lebih besar untuk menguji tingkat efisiensi waktu kinerja prosesnya.
+Data Uji yang digunakan adalah data uji dengan format *.txt (plain text)
+Maksimum ukuran data uji yang dapat diproses untuk proses POS-Tagging = 70 Mb Maksimum ukuran data uji Proses Stemming = 25 Mb
